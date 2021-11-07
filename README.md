@@ -1,4 +1,4 @@
-# 360-View
+# 360-View of Product
 To enhance the instrore experience of the customer our team incognito introduces 360 view of the product 
 ## Technology used:
 - Blender
